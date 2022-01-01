@@ -4,16 +4,16 @@
 # Project Setting
     $ npm install
     $ npm install -g babel-cli
-    $ config/config.js 파일을 수정 할 것.
+    $ config/config.js // change this part
     $ npm run init
 
     OR
     
     $ npm install
     $ npm install -g babel-cli
-    $ config/config.js 파일을 수정 할 것.
-    $ mkdir uploads // 프로젝트 최상위에 uploads폴더를 만들어 줄것
-    $ schema/*.sql // 안에 모든 schema를 추가할 것.
+    $ config/config.js // Change this part
+    $ mkdir uploads 
+    $ schema/*.sql 
 
 # How to run the server
     $ npm run server
@@ -29,10 +29,12 @@
 * passport
 
 <br>
+
 # How to use development tools
 * Through Node.js, the data requested or sent by the user is stored in the DB, or retrieved and sent back to the user.
 * Mysql is used to store user information like user evaluation, login, and other input data.
 * Oue web page consists of html, css and javascript. In addition, jQuery is used to transfer input data to the server or to interaction pages.
+
 <br>
 
 # Preview the Website! 
