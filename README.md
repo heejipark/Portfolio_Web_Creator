@@ -1,5 +1,5 @@
 <h1 align=center>Portfolio Web Creator</h1>
-<p align=center>Our site helps you create your own site. </p>
+<p align=center>Our site helps you create your own site.<br> @Team Project at Sejong University on Jan. 2018 </p>
 
 # Project Setting
     $ npm install
